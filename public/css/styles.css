@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.content-section{
+    min-height: 80vh;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 30px;
+}
